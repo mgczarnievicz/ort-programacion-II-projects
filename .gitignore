@@ -1,0 +1,20 @@
+# Compiled classes
+build/
+dist/
+out/
+
+# NetBeans project metadata
+nbproject/private/
+nbbuild/
+nbdist/
+
+# Saved game state
+src/Guardado/archivo
+
+# Mac junk
+.DS_Store
+__MACOSX/
+
+# General
+*.class
+*.jar
